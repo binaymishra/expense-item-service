@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.expense.item.service.DataLoader;
-import com.expense.model.ItemServiceResponse;
+import com.expense.item.service.model.ItemServiceResponse;
 
 @Controller
 public class ExpenseItemController {
